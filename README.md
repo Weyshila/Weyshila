@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, meu nome é Weyshila Alves
 
-<!--
-**Weyshila/Weyshila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 Curso análise e desenvolvimento de sistemas no Centro Universitário Unifacvest (2/4 - 04-2024) 
+- 🧐 A procura de uma oportunidade de estágio
+- 💻 Atualmente estudando HTML5 e CSS3
+- 👩🏻 Pronouns: Ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+<div>
+<a href="https://www.instagram.com/alwsehyi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+<a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>

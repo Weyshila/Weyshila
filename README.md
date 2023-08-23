@@ -1,12 +1,17 @@
-### Olá, meu nome é Weyshila Alves
+### Olá, me chamo Weyshila Alves
 
 
-- 📚 Curso análise e desenvolvimento de sistemas no Centro Universitário Facvest (2/4 - 04-2024) 
-- 🧐 A procura de uma oportunidade de estágio
-- 💻 Atualmente estudando Data Analytics Google pelo Cousera + CIEE 
+📚 Curso análise e desenvolvimento de sistemas no Centro Universitário Facvest (2/4 - 04-2024) 
 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+🧐 A procura de uma oportunidade de estágio
+
+### 💻 Certificações que estou prestando atualmente:
+- Fundamentos do Suporte Técnico - Google + Cousera
+- Santander Bootcamp 2023 - Fullstack Java+Angular
+- Bootcamp Desenvolvimento Java com Cloud AWS 
+
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 <div>
 <a href="https://www.instagram.com/alwsehyi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  

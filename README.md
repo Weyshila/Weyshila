@@ -7,8 +7,6 @@
 
 ### 💻 Certificações que estou prestando atualmente:
 - Fundamentos do Suporte Técnico - Google + Cousera
-- Santander Bootcamp 2023 - Fullstack Java+Angular
-- Bootcamp Desenvolvimento Java com Cloud AWS 
 
   
 ## Encontre-me nas seguintes redes sociais

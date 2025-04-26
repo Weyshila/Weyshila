@@ -1,12 +1,9 @@
-## Oii, sou a Weyshila Alves 👩🏻‍💻
-
+## Oi, sou a Weyshila Rocha 👩🏻‍💻
 
 📚 Curso análise e desenvolvimento de sistemas no Centro Universitário Facvest (3/4 - 04-2024) 
 
-🧐 A procura de uma oportunidade de estágio
-
 ### 💻 Certificações que estou prestando atualmente:
-- Fundamentos do Suporte Técnico - Google + Cousera
+- Técnico em Análise e Desenvolvimentos de Sistemas
 
   
 ## Encontre-me nas seguintes redes sociais
